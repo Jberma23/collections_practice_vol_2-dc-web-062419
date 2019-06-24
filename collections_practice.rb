@@ -28,6 +28,6 @@ def remove_non_strings(array)
 end
 
 def count_elements(array)
-length = array.length 
+length = array.length
 return length
 end
